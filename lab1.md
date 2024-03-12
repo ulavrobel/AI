@@ -44,9 +44,7 @@ maszyny):
 
 # Zadanie 4
 Do zadań skorzystaj z załączonej listy Chatbotów (Chatterbotów) lub znajdź własne.
-##1. Przeprowadź rozmowę z chatbotem. Spróbuj zdefiniować różnice pomiędzy
-botem udającym człowieka (przygotowywanym na test Turinga) a botem
-„asystentem, służącym”.
+## 1. Przeprowadź rozmowę z chatbotem. Spróbuj zdefiniować różnice pomiędzy botem udającym człowieka (przygotowywanym na test Turinga) a botem „asystentem, służącym”.
 
 ## 2. Sprawdź dwa boty z obu z tych rodzajów na występowanie zachowań:
 a) opowiadanie żartów,
