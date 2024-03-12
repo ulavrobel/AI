@@ -1,4 +1,4 @@
-#Zadanie 1
+# Zadanie 1
 Które z następujących zadań wymagają w Twojej opinii inteligencji od człowieka:
 1. wypełnianie deklaracji PIT,
 2. streszczanie tekstu,
@@ -16,7 +16,7 @@ Które z następujących zadań wymagają w Twojej opinii inteligencji od człow
 14. kierowanie samochodem.
 **WEDLUG MNIE WSZYSTKO WYMAGA**
 
-#Zadanie 2
+# Zadanie 2
 Które z następujących problemów można uznać za mieszczące się w zakresie sztucznej
 inteligencji:
 1. streszczanie tekstu,
@@ -31,7 +31,7 @@ inteligencji:
 10. kierowanie samochodem.
 **WEDLUG MNIE WSZYSTKO WSZYSTKO MOZE ZROBIC SZTUCZNA INTELIGENCJA**
 
-#Zadanie 3
+# Zadanie 3
 Które z poniższych rodzajów komunikacyjnego zachowania człowieka mogą być
 obecnie skutecznie imitowane przez sztuczne systemy (odpowiednio oprogramowane
 maszyny):
@@ -42,13 +42,13 @@ maszyny):
 5. odpowiadanie na pytania klientów w internetowej infolinii.
 **WSZYSTKO**
 
-#Zadanie 4
+# Zadanie 4
 Do zadań skorzystaj z załączonej listy Chatbotów (Chatterbotów) lub znajdź własne.
 ##1. Przeprowadź rozmowę z chatbotem. Spróbuj zdefiniować różnice pomiędzy
 botem udającym człowieka (przygotowywanym na test Turinga) a botem
 „asystentem, służącym”.
 
-##2. Sprawdź dwa boty z obu z tych rodzajów na występowanie zachowań:
+## 2. Sprawdź dwa boty z obu z tych rodzajów na występowanie zachowań:
 a) opowiadanie żartów,
 b) przytaczanie cytatów z twoich wypowiedzi, lub znanych osób,
 c) nawiązywanie wypowiedzi do słów kluczowych,
@@ -59,7 +59,7 @@ g) odpowiadanie wymijająco, ogólnikowo,
 h) częsta zmiana tematu rozmowy,
 i) problemy z utrzymaniem wątków.
 
-##3. Sporządź raport ze spostrzeżeń.
+## 3. Sporządź raport ze spostrzeżeń.
 
 ##4. Na podstawie powyższych obserwacji, w grupie dwóch osób spróbujcie prze-
 widzieć zachowania dwóch rozmawiających ze sobą chatbotów (przepisując ich
