@@ -61,8 +61,8 @@ i) problemy z utrzymaniem wątków.
 
 ## 3. Sporządź raport ze spostrzeżeń.
 
-##4. Na podstawie powyższych obserwacji, w grupie dwóch osób spróbujcie prze-
+## 4. Na podstawie powyższych obserwacji, w grupie dwóch osób spróbujcie prze-
 widzieć zachowania dwóch rozmawiających ze sobą chatbotów (przepisując ich
 wzajemne odpowiedzi).
 
-##5. Zdenerwuj bota 😊😊
+## 5. Zdenerwuj bota 😊😊
