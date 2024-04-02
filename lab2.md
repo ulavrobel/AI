@@ -52,3 +52,71 @@ przykG(X,Y) :-
     rodzic(D,X),
     rodzic(D,Y).
 ```
+### zad.2
+```
+kobieta(X) :-
+    \+mezczyzna(X).
+
+ojciec(X,Y) :-
+    rodzic(Y,X),
+    mezczyzna(X).
+    
+matka(X,Y) :-
+    rodzic(Y,X),
+    kobieta(X).
+
+corka(X,Y) :-
+    rodzic(X,Y),
+    kobieta(X).
+
+brat_rodzony(X,Y) :-
+    rodzic(Y,A),
+    rodzic(X,B),
+    rodzic(Y,B),
+    rodzic(X,A),
+    mezczyzna(X).
+    
+brat_przyrodni(X,Y) :-
+    rodzic(X,A),
+    rodzic(Y,B),
+    rodzic(Y,A),
+    rodzic(X,C),
+    mezyczyzna(X).
+
+kuzyn(X,Y) :-
+    rodzic(X,E),
+    rodzic(E,F),
+    rodzic(Y,G),
+    rodzic(G,F),
+    mezczyzna(X).
+
+dziadek_od_strony_ojca(X,Y) :-
+    ojciec(X,A),
+    ojciec(A,Y).
+
+dziadek_od_strony_matki(X,Y) :-
+    ojciec(X,A),
+    matka(A,Y).
+
+dziadek(X,Y) :-
+    rodzic(Y,A),
+    ojciec(X,A).
+
+babcia(X,Y) :-
+    rodzic(Y,A),
+    matka(X,A).
+
+wnuczka(X,Y) :-
+    rodzic(Y,A),
+    rodzic(A,X),
+    kobieta(Y).
+
+przodek_do2pokolenia_wstecz(X,Y) :-
+    rodzic(Y,A),
+    rodzic(A,X).
+
+przodek_do3pokolenia_wstecz(X,Y) :-
+    rodzic(Y,A),
+    rodzic(A,B),
+    rodzic(B,X).
+````
